@@ -1,0 +1,5 @@
+#  how to write js with html
+inline 
+onclick="this.innerHTML='SOME VALUE'"
+# selector in js 
+# style in js 
